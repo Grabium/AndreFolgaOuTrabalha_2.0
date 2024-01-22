@@ -70,7 +70,7 @@ function concatenarResposta(resto){
       break;
   }
 
-  //folga=verde, trabalho=vermelho.
+  //folga=verde, trabalho=vermelho. 
   let color;
   if (resto <= 3){
     color = 'green';
